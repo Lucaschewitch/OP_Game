@@ -1,0 +1,13 @@
+{
+    "debug": false,
+    "difficulty": "easy",
+    "fps": 60,
+    "fullscreen": false,
+    "music": 1.0,
+    "screenSize": [
+        720,
+        480
+    ],
+    "sfx": 0.9377431906614786,
+    "volume": 100
+}
